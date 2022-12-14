@@ -1,0 +1,4 @@
+INSERT INTO client (id, name, shared_key, email, phone, creation_date) VALUES (99990, 'Janer Vanegas', 'jvanegas', 'jvanegas@mail.com', '3111111', '2022-12-14');
+INSERT INTO client (id, name, shared_key, email, phone, creation_date) VALUES (99991, 'Bill Gates', 'bgates', 'bgates@mail.com', '3111111', '2022-12-14');
+INSERT INTO client (id, name, shared_key, email, phone, creation_date) VALUES (99992, 'Elon Musk', 'emusk', 'emusk@mail.com', '3111111', '2022-12-14');
+INSERT INTO client (id, name, shared_key, email, phone, creation_date) VALUES (99993, 'Jeff Bezos', 'jbezos', 'jbezos@mail.com', '3111111', '2022-12-14');
